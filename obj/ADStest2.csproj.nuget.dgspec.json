@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ckp78365\\OneDrive - Science and Technology Facilities Council\\User Support Placement\\TwinCAT3\\Examples\\ADStest2\\ADStest2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ckp78365\\OneDrive - Science and Technology Facilities Council\\User Support Placement\\TwinCAT3\\Examples\\ADStest2\\ADStest2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ckp78365\\OneDrive - Science and Technology Facilities Council\\User Support Placement\\TwinCAT3\\Examples\\ADStest2\\ADStest2.csproj",
+        "projectName": "ADStest2",
+        "projectPath": "C:\\Users\\ckp78365\\OneDrive - Science and Technology Facilities Council\\User Support Placement\\TwinCAT3\\Examples\\ADStest2\\ADStest2.csproj",
+        "packagesPath": "C:\\Users\\ckp78365\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ckp78365\\OneDrive - Science and Technology Facilities Council\\User Support Placement\\TwinCAT3\\Examples\\ADStest2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ckp78365\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Beckhoff.TwinCAT.Ads": {
+              "target": "Package",
+              "version": "[6.1.154, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
